@@ -5,6 +5,9 @@ Bu proje, Test-Driven Development (TDD) ve Behavior-Driven Development (BDD) met
 ## 📹 Demo Video
 [YouTube'da İzle](https://youtu.be/8WmhqvA_-YU)
 
+## 💼 LinkedIn Paylaşımı
+[LinkedIn'de Görüntüle](https://www.linkedin.com/posts/yahya-%C3%B6zden-806319359_github-yahyaa147vardiya-yonetim-sistemi-activity-7392647503608832000-6Ohb?utm_source=share&utm_medium=member_desktop)
+
 ## 🏗️ Proje Yapısı
 
 ### Backend - TDD ile Geliştirildi
